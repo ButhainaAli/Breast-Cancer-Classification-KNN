@@ -35,7 +35,7 @@ The dataset contains **569 samples** and **33 columns**. The features were extra
 - Best K value: **7**
 - Training Accuracy: **92%**
 - Testing Accuracy: **89%**
-![Result](images/Result.jpg)
+![Result](images/Result.JPG)
 
 ## Repository Contents
 KNN_Breast_Cancer_Classifier.ipynb   # Source code
