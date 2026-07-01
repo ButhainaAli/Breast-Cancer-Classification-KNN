@@ -6,7 +6,7 @@ A machine learning project that uses the K-Nearest Neighbors (KNN) algorithm to 
 This project applies the **K-Nearest Neighbors (KNN)** machine learning algorithm to classify breast cancer tumors as **benign** or **malignant** based on medical features from the Breast Cancer Wisconsin dataset.
 
 The project was developed as part of a **Data Mining** course and demonstrates the complete machine learning workflow, including data preprocessing, model training, evaluation, and visualization.
-![Dataset](images/Dataset.png)
+![Dataset](images/Dataset.JPG)
 
 ## Features
 - Data cleaning
