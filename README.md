@@ -21,7 +21,7 @@ The dataset contains **569 samples** and **33 columns**. The features were extra
 **Target Variable (Diagnosis):**
 - **0** = Benign
 - **1** = Malignant
-<img width="1378" height="510" alt="image" src="https://github.com/user-attachments/assets/53ea3429-5dc6-407e-844b-5e5070662bb7" /># 
+
 ## Technologies
 - Python
 - Jupyter Notebook
@@ -34,7 +34,6 @@ The dataset contains **569 samples** and **33 columns**. The features were extra
 - Best K value: **7**
 - Training Accuracy: **92%**
 - Testing Accuracy: **89%**
-<img width="1609" height="603" alt="image" src="https://github.com/user-attachments/assets/4a7e00fb-6d11-4668-a5bf-71221ade6a7d" />
 
 ## Repository Contents
 KNN_Breast_Cancer_Classifier.ipynb   # Source code
